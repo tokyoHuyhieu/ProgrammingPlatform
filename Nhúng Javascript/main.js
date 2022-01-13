@@ -1,0 +1,1 @@
+document.write("Thực hành nhúng file word")
